@@ -1,12 +1,11 @@
 ---
-title: Về tôi
+title: About Alembic
 feature_text: |
   ## About me
   Đây là trang cá nhân của mình
-  feature_image: "https://picsum.photos/id/237/200/300"
+feature_image: "https://picsum.photos/id/237/200/300"
 excerpt: ""
 ---
-<!-- # feature_image: "https://picsum.photos/1300/400?image=4" -->
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
