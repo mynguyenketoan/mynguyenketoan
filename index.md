@@ -1,17 +1,17 @@
 ---
-title: About Alembic
+title: Về tôi
 feature_text: |
   ## About me
   Đây là trang cá nhân của mình
-feature_image: "https://picsum.photos/id/237/200/300"
+feature_image: "https://picsum.photos/id/4/512/1080"
 excerpt: ""
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Mình tốt nghiệp đại học Kinh tế Thành Phố Hồ Chí Minh năm 1985 (khóa 1981-1985). Mình có trên 30 năm kinh nghiệm làm kế toán, kiểm toán có các doanh nghiệp vừa và nhỏ, doanh nghiệp lớn. Hiện tại mình có cung cấp các dịch vụ kế toán. Nếu bạn có nhu cầu xin liên hệ với chúng mình quá liên lạc sau.
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
-## Features
+<!-- ## Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
@@ -90,4 +90,4 @@ When using Alembic as a theme means you can take advantage of the file overridin
 
 To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
 
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings. -->
