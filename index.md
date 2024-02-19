@@ -3,7 +3,7 @@ title: Về tôi
 feature_text: |
   ## About me
   Đây là trang cá nhân của mình
-feature_image: "https://picsum.photos/id/4/512/1080"
+feature_image: "https://picsum.photos/id/4/5000/3333"
 excerpt: ""
 ---
 
