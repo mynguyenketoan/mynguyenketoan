@@ -1,11 +1,12 @@
 ---
-title: About Alembic
+title: Về tôi
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  ## About me
+  Đây là trang cá nhân của mình
+  feature_image: "https://picsum.photos/id/237/200/300"
+excerpt: ""
 ---
+<!-- # feature_image: "https://picsum.photos/1300/400?image=4" -->
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
