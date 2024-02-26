@@ -3,13 +3,13 @@ title: Về tôi
 feature_text: |
   ## About me
   Đây là trang cá nhân của mình
-feature_image: "https://picsum.photos/id/4/5000/3333"
+feature_image: "https://picsum.photos/2560/600?image=4"
 excerpt: ""
 ---
 
 Mình tốt nghiệp đại học Kinh tế Thành Phố Hồ Chí Minh năm 1985 (khóa 1981-1985). Mình có trên 30 năm kinh nghiệm làm kế toán, kiểm toán có các doanh nghiệp vừa và nhỏ, doanh nghiệp lớn. Hiện tại mình có cung cấp các dịch vụ kế toán. Nếu bạn có nhu cầu xin liên hệ với chúng mình quá liên lạc sau.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Liên lạc / Contact" link="https://www.yellowpages.vn/lgs/1187822811/ke-toan-tri-thuc-viet-vpdd-kiem-toan-ke-toan-cong-ty-tnhh-tri-thuc-viet-tai-binh-dinh.html" color="#f68140" %}
 
 <!-- ## Features
 
