@@ -23,11 +23,15 @@ aside: true
 
 ## Dịch vụ kinh doanh
 
-✍ **Dịch vụ Kiểm toán**: Kiểm toán độc lập, kiểm toán hoạt động, kiểm toán báo cáo tài chính, quyết toán dự án,..
-✍ **Dịch vụ Kế toán**: Kế toán thuế, phân tích số liệu kế toán, hoàn thiện sổ sách kế toán, lập chứng từ kế toán,..
-✍ **Dịch vụ tư vấn thuế**: Khai báo thuế, soát xét báo cáo thuế, tư vấn luật thuế, kê khai thuế hàng tháng, quý, năm,..
-✍ **Dịch vụ tư vấn Doanh nghiệp**: Tư vấn thủ tục thành lập doanh nghiệp, văn phòng đại diện, đăng ký giấy phép kinh doanh, thay đổi trụ sở doanh nghiệp,..
-✍ **Dịch vụ chuyển giá**: Tư vấn xác định giá thị trường
+*✍* **Dịch vụ Kiểm toán**: Kiểm toán độc lập, kiểm toán hoạt động, kiểm toán báo cáo tài chính, quyết toán dự án,..
+
+* ✍ **Dịch vụ Kế toán**: Kế toán thuế, phân tích số liệu kế toán, hoàn thiện sổ sách kế toán, lập chứng từ kế toán,..
+
+* ✍ **Dịch vụ tư vấn thuế**: Khai báo thuế, soát xét báo cáo thuế, tư vấn luật thuế, kê khai thuế hàng tháng, quý, năm,..
+
+* ✍ **Dịch vụ tư vấn Doanh nghiệp**: Tư vấn thủ tục thành lập doanh nghiệp, văn phòng đại diện, đăng ký giấy phép kinh doanh, thay đổi trụ sở doanh nghiệp,..
+
+* ✍ **Dịch vụ chuyển giá**: Tư vấn xác định giá thị trường
 
 > A simple blockquote
 
@@ -83,7 +87,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 ``` html
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
 ```
-
+<!-- 
 ### Button include
 
 {% include button.html text="A button" link="https://david.darn.es" %}
@@ -131,4 +135,4 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
-```
+``` -->

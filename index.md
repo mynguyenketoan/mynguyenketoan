@@ -9,7 +9,7 @@ excerpt: ""
 
 Mình tốt nghiệp đại học Kinh tế Thành Phố Hồ Chí Minh năm 1985 (khóa 1981-1985). Mình có trên 30 năm kinh nghiệm làm kế toán, kiểm toán có các doanh nghiệp vừa và nhỏ, doanh nghiệp lớn. Hiện tại mình có cung cấp các dịch vụ kế toán. Nếu bạn có nhu cầu xin liên hệ với chúng mình quá liên lạc sau.
 
-{% include button.html text="Liên lạc / Contact" link="https://www.yellowpages.vn/lgs/1187822811/ke-toan-tri-thuc-viet-vpdd-kiem-toan-ke-toan-cong-ty-tnhh-tri-thuc-viet-tai-binh-dinh.html" color="#f68140" %}
+{% include button.html text="Liên lạc / Contact" link="https://mynguyenketoan.github.io/contact/" color="#f68140" %}
 
 <!-- ## Features
 
