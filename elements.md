@@ -7,7 +7,7 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
+<!-- # Heading 1
 
 ## Heading 2
 
@@ -19,25 +19,15 @@ aside: true
 
 ###### Heading 6
 
-<small>A small element</small>
+<small>A small element</small> -->
 
-[A link](https://david.darn.es "A link")
+## Dịch vụ kinh doanh
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
+✍ **Dịch vụ Kiểm toán**: Kiểm toán độc lập, kiểm toán hoạt động, kiểm toán báo cáo tài chính, quyết toán dự án,..
+✍ **Dịch vụ Kế toán**: Kế toán thuế, phân tích số liệu kế toán, hoàn thiện sổ sách kế toán, lập chứng từ kế toán,..
+✍ **Dịch vụ tư vấn thuế**: Khai báo thuế, soát xét báo cáo thuế, tư vấn luật thuế, kê khai thuế hàng tháng, quý, năm,..
+✍ **Dịch vụ tư vấn Doanh nghiệp**: Tư vấn thủ tục thành lập doanh nghiệp, văn phòng đại diện, đăng ký giấy phép kinh doanh, thay đổi trụ sở doanh nghiệp,..
+✍ **Dịch vụ chuyển giá**: Tư vấn xác định giá thị trường
 
 > A simple blockquote
 
@@ -78,7 +68,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ## HTML Includes
 
-### Contact form
+### Phiếu liên lạc
 
 {% include site-form.html %}
 
