@@ -23,16 +23,15 @@ aside: true
 
 ## Dịch vụ kinh doanh
 
-*✍* **Dịch vụ Kiểm toán**: Kiểm toán độc lập, kiểm toán hoạt động, kiểm toán báo cáo tài chính, quyết toán dự án,..
+* **Dịch vụ Kiểm toán**: Kiểm toán độc lập, kiểm toán hoạt động, kiểm toán báo cáo tài chính, quyết toán dự án,..
 
-* ✍ **Dịch vụ Kế toán**: Kế toán thuế, phân tích số liệu kế toán, hoàn thiện sổ sách kế toán, lập chứng từ kế toán,..
+* **Dịch vụ Kế toán**: Kế toán thuế, phân tích số liệu kế toán, hoàn thiện sổ sách kế toán, lập chứng từ kế toán,..
 
-* ✍ **Dịch vụ tư vấn thuế**: Khai báo thuế, soát xét báo cáo thuế, tư vấn luật thuế, kê khai thuế hàng tháng, quý, năm,..
+* **Dịch vụ tư vấn thuế**: Khai báo thuế, soát xét báo cáo thuế, tư vấn luật thuế, kê khai thuế hàng tháng, quý, năm,..
 
-* ✍ **Dịch vụ tư vấn Doanh nghiệp**: Tư vấn thủ tục thành lập doanh nghiệp, văn phòng đại diện, đăng ký giấy phép kinh doanh, thay đổi trụ sở doanh nghiệp,..
+* **Dịch vụ tư vấn Doanh nghiệp**: Tư vấn thủ tục thành lập doanh nghiệp, văn phòng đại diện, đăng ký giấy phép kinh doanh, thay đổi trụ sở doanh nghiệp,..
 
-* ✍ **Dịch vụ chuyển giá**: Tư vấn xác định giá thị trường
-
+<!-- 
 > A simple blockquote
 
 Some HTML...
@@ -68,25 +67,25 @@ const bolden = (keyString, string) =>
 blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 ```
 
-`Single line of code`
+`Single line of code` -->
 
-## HTML Includes
+<!-- ## HTML Includes -->
 
-### Phiếu liên lạc
+<!-- ### Phiếu liên lạc
 
 {% include site-form.html %}
 
 ``` html
 {% raw %}{% include site-form.html %}{% endraw %}
-```
+``` -->
 
-### Demo map embed
+<!-- ### Demo map embed
 
 {% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
 
 ``` html
 {% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
+``` -->
 <!-- 
 ### Button include
 
