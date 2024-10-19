@@ -1,18 +1,21 @@
 ---
-title: Về tôi
+title: Dịch vụ kế toán
 feature_text: |
-  ## About me
-  Đây là trang cá nhân của mình
-feature_image: "https://picsum.photos/2560/600?image=4"
+  ## VP Đại Diện dịch vụ Kế Toán Tri Thức Việt tại Bình Định
+feature_image: "https://picsum.photos/id/420/4825/3217/?blur"
 excerpt: ""
 ---
 
-Mình tốt nghiệp đại học Kinh tế Thành Phố Hồ Chí Minh năm 1985 (khóa 1981-1985). Mình có trên 30 năm kinh nghiệm làm kế toán, kiểm toán có các doanh nghiệp vừa và nhỏ, doanh nghiệp lớn. Hiện tại mình có cung cấp các dịch vụ kế toán. Nếu bạn có nhu cầu xin liên hệ với chúng mình quá liên lạc sau.
+VP Đại Diện dịch vụ Kế Toán Tri Thức Việt, chúng tôi luôn tìm hiểu, lắng nghe thấu đáo nhu cầu và tận tâm phục vụ khách hàng; Duy trì chất lượng dịch vụ theo tiêu chuẩn Quốc tế; Cam kết thực hiện đúng chuẩn mực đạo đức nghề nghiệp; Căn cứ vào giá trị mà khách hàng nhận được để tính phí dịch vụ; Chúng tôi cung cấp các dịch vụ làm thủ tục về thuế, kế toán, kiểm toán và tư vấn cho các tổ chức kinh tế thuộc mọi thành phần kinh tế trên phạm vi tỉnh Bình Định và các tỉnh lân cận.
+
+Thành viên và Bộ máy quản lý của chúng tôi là các chuyên gia dày dặn kinh nghiệm trong việc cung cấp những dịch vụ kiểm toán, kế toán, chứng khoán, tư vấn thuế và tài chính cho các khách hàng hoạt động trong nhiều lĩnh vực khác nhau như sản xuất, dịch vụ, xây dựng, thương mại, du lịch và khách sạn, ...
+
+Nếu bạn có nhu cầu xin liên hệ với chúng mình quá liên lạc sau.
 
 {% include button.html text="Liên lạc / Contact" link="https://mynguyenketoan.github.io/contact/" color="#f68140" %}
 
 <!-- ## Features
-
+https://fastly.picsum.photos/id/122/3888/2592.jpg
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
