@@ -96,10 +96,10 @@ lang: en-GB # Set the site language
 title: "Mỹ Nguyễn" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "VPĐD Công ty TNHH Tri Thức Việt Tại Bình Định là một trong 6 Văn Phòng, chi nhánh của Công ty TNHH Tri Thức Việt tại Bình Định, được chính thức thành lập vào 2017. Giấy chứng nhận đăng ký hoạt động Văn phòng đại diện: Mã số VPĐD: 3701580837-006 do Phòng đăng ký kinh doanh - Sở kế hoạch đầu tư tỉnh Bình Định cấp ngày 21/08/2017 hoạt động theo ủy quyền của doanh nghiệp: CÔNG TY TNHH TRI THỨC VIỆT - MST: 3701580837 - Địa chỉ trụ sở chính: Số 835A, Đại lộ Bình Dương, phường Chánh Mỹ, TP. Thủ Dầu Một, tỉnh Bình Dương, Việt Nam" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://mynguyenketoan.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/mynguyenketoan/mynguyenketoan.github.io"
+email: "my123thd@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -124,11 +124,13 @@ navigation_header:
 - title: Trang chủ
   url: /
 - title: Dịch vụ
-  url: /elements/
-- title: Blog
+  url: /services/
+- title: Bài viết
   url: /blog/
 - title: Liên hệ
   url: /contact/
+- title: Về chúng tôi
+  url: /about/
 - title: Tìm kiếm
   url: /search/
 # - title: Fork Alembic
@@ -140,6 +142,7 @@ navigation_header:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Zalo: 0913 602 386
+  Telephone: 02563601377
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"

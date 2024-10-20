@@ -10,7 +10,7 @@ VP Đại Diện dịch vụ Kế Toán Tri Thức Việt, chúng tôi luôn tì
 
 Thành viên và Bộ máy quản lý của chúng tôi là các chuyên gia dày dặn kinh nghiệm trong việc cung cấp những dịch vụ kiểm toán, kế toán, chứng khoán, tư vấn thuế và tài chính cho các khách hàng hoạt động trong nhiều lĩnh vực khác nhau như sản xuất, dịch vụ, xây dựng, thương mại, du lịch và khách sạn, ...
 
-Nếu bạn có nhu cầu xin liên hệ với chúng mình quá liên lạc sau.
+Nếu bạn có nhu cầu xin liên hệ với chúng tôi qua liên lạc sau.
 
 {% include button.html text="Liên lạc / Contact" link="https://mynguyenketoan.github.io/contact/" color="#f68140" %}
 
