@@ -81,12 +81,13 @@ Thủ tục hoàn thuế phức tạp, đòi hỏi người thực hiện phải
 ### Điều kiện hoàn thuế GTGT
 Thuế GTGT là một loại thuế trực tiếp được áp dụng đối với các hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ tại Việt Nam. Doanh nghiệp có thể được hoàn lại một phần hoặc toàn bộ số thuế GTGT đã nộp cho nhà nước nếu đáp ứng được các điều kiện sau trước khi thực hiện các thủ tục, dịch vụ hoàn thuế giá trị gia tăng sau đây.
 ### Các đối tượng được hoàn thuế giá trị gia tăng (GTGT)
-- Đối với dự án đầu tư mới
+
+* Đối với dự án đầu tư mới:
 Cơ sở kinh doanh đã đăng ký nộp thuế GTGT theo phương pháp khấu trừ có dự án đầu tư mới, đang trong giai đoạn đầu tư có số thuế GTGT của hàng hóa, dịch vụ mua vào sử dụng cho đầu tư mà chưa được khấu trừ và có số thuế còn lại từ 300 triệu đồng trở lên thì được hoàn thuế GTGT.
-- Cơ sở kinh doanh trong tháng, quý có hàng hóa, dịch vụ xuất khẩu
+* Cơ sở kinh doanh trong tháng, quý có hàng hóa, dịch vụ xuất khẩu:
 Cơ sở kinh doanh trong tháng, quý có hàng hóa, dịch vụ xuất khẩu nếu có số thuế GTGT đầu vào chưa được khấu trừ từ 300 triệu đồng trở lên thì được hoàn thuế GTGT theo tháng, quý.
-Lưu ý: Trường hợp cơ sở kinh doanh có hàng hóa nhập khẩu để xuất khẩu, hàng hóa xuất khẩu không thực hiện việc xuất khẩu tại địa bàn hoạt động hải quan theo quy định của Luật Hải quan thì không được hoàn thuế.
-- Các trường hợp hoàn thuế khác 
+**Lưu ý**: Trường hợp cơ sở kinh doanh có hàng hóa nhập khẩu để xuất khẩu, hàng hóa xuất khẩu không thực hiện việc xuất khẩu tại địa bàn hoạt động hải quan theo quy định của Luật Hải quan thì không được hoàn thuế.
+* Các trường hợp hoàn thuế khác.
 
 
 <!-- 
