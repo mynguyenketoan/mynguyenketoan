@@ -30,3 +30,9 @@ aside: false
 * Địa chỉ: 123D Trần Hưng Đạo, Thành phố Quy Nhơn, Tỉnh Bình Định
 * Số điện thoại: (+84)0 913 602 386
 * Email: my123thd@gmail.com
+
+# Trụ sở chính
+
+* Địa chỉ: Số 835A, Đại lộ Bình Dương, phường Chánh Mỹ, TP. Thủ Dầu Một, tỉnh Bình Dương
+* Số điện thoại: (+84)0274 3856 219
+* Email: info@trithucviet.com.vn
