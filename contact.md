@@ -9,6 +9,7 @@ aside: false
 
 * Địa chỉ: 123D Trần Hưng Đạo, Thành phố Quy Nhơn, Tỉnh Bình Định
 * Số điện thoại: (+84)0 913 602 386
+* Số điện thoại cố định: 02563 601377
 * Email: my123thd@gmail.com
 * Zalo: [0913602386](https://chat.zalo.me/?phone=0913602386)
 
