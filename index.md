@@ -12,7 +12,7 @@ Thành viên và Bộ máy quản lý của chúng tôi là các chuyên gia dà
 
 Nếu bạn có nhu cầu xin liên hệ với chúng tôi qua liên lạc sau.
 
-{% include button.html text="Liên lạc / Contact" link="https://mynguyenketoan.github.io/contact/" color="#f68140" %}
+{% include button.html text="Liên lạc / Contact" link="https://mynguyenketoan.com/contact/" color="#f68140" %}
 
 <!-- ## Features
 https://fastly.picsum.photos/id/122/3888/2592.jpg
