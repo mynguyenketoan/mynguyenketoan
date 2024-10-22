@@ -1,5 +1,5 @@
 ---
-title: Liên hệ | Contact
+title: Liên hệ | Contact
 layout: page
 excerpt: "Category index"
 aside: false
