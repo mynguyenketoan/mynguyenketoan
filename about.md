@@ -9,6 +9,7 @@ aside: false
 # Giới thiệu về CÔNG TY TNHH TRI THỨC VIỆT
 
 Công ty TNHH Tri Thức Việt (TTV) được thành lập vào năm 2009 bởi các Chủ phần hùn (Partners) từng làm việc tại các Công ty thành viên của các Hãng kiểm toán Quốc tế.
+
 ## TTV hoạt động kinh doanh theo các pháp lý sau:
 
 * Giấy Chứng nhận đăng ký doanh nghiệp số 3701580837 do Sở kế hoạch đầu tư tỉnh Bình Dương cấp ngày 13/08/2009;
@@ -17,7 +18,7 @@ Công ty TNHH Tri Thức Việt (TTV) được thành lập vào năm 2009 bởi
 * Công văn số 14779/BTC-CĐKT ngày 19/10/2015 của Bộ Tài chính chấp thuận cho Chi nhánh Hà Nội được kinh doanh dịch vụ kiểm toán.
 
 Công ty TNHH Tri Thức Việt (TTV) được thành lập vào năm 2009 bởi các Chủ phần hùn (Partners) từng làm việc tại các Công ty thành viên của các Hãng kiểm toán Quốc tế.
-Tri thức Việt là thành viên của Allinial Global (trụ sở tại Hoa Kỳ). Cuối năm 2017 Allinial Global có 137 Công ty thành viên với 383 trụ sở và chi nhánh hoạt động trên 50 Quốc gia, số Partners là 3.106, tổng nhân viên là 13.990, doanh số năm 2017 của Allinial là hơn 2,5 tỷ $, đứng thứ 5 toàn cầu và thứ 3 ở Mỹ. (www.allinialglobal.com)
+[Tri thức Việt là thành viên của Allinial Global](https://allinialglobal.com/firm/tri-thuc-viet-company-limited-ttv/) (trụ sở tại Hoa Kỳ). Cuối năm 2017 Allinial Global có 137 Công ty thành viên với 383 trụ sở và chi nhánh hoạt động trên 50 Quốc gia, số Partners là 3.106, tổng nhân viên là 13.990, doanh số năm 2017 của Allinial là hơn 2,5 tỷ $, đứng thứ 5 toàn cầu và thứ 3 ở Mỹ. [Website chính](https://www.allinialglobal.com)
 
 ### Hội Đồng Thành viên và Bộ máy quản lý :
 Hội đồng Thành viên và Bộ máy quản lý của chúng tôi là các chuyên gia dày dạn kinh nghiệm trong việc cung cấp những dịch vụ kiểm toán, kế toán, chứng khoán, tư vấn thuế và tài chính cho các khách hàng hoạt động trong nhiều lĩnh vực khác nhau như sản xuất, xây dựng, thương mại, tài chính, viễn thông, du lịch và khách sạn, bảo hiểm.
@@ -34,6 +35,5 @@ Khách hàng của Tri Thức Việt gồm 3 nhóm chính:
  
 # Giới thiệu về HIỆP HỘI QUỐC TẾ ALLINIAL GLOBAL
 
-Allinial Global (AG) là một hiệp hội toàn cầu bao gồm các Công ty tư vấn, kiểm toán và kế toán độc lập, với mục tiêu hợp tác nhằm mang đến cho khách hàng những giải pháp tài chính tối ưu nhất.
-
-Được thành lập từ năm 1969, cho đến nay Allinial Global đã ngày càng phát triển và khẳng định vị thế là Hiệp hội Kế toán lớn thứ 2 trên thế giới, với vinh dự được nhận nhiều giải thưởng qua từng năm, có thể kể đến Hiệp hội của năm (2018), Hiệp hội triển vọng (2019, 2021), Hiệp hội kế toán lớn thứ 2 trên thế giới (2021) và gần đây nhất là Sáng kiến Đa dạng và Hòa nhập của năm (2022). Đó là thành quả từ sự nỗ lực không ngừng nghỉ từ 261 công ty thành viên trên 107 quốc gia, với nguồn nhân lực hơn 6.000 Chủ phần hùn (Partner) và hơn 37.000 nhân viên luôn sẵn sàng cung cấp các dịch vụ tiêu chuẩn quốc tế mọi nơi, mọi lúc.
+[Allinial Global](https://allinialglobal.com/about/) (AG) là một hiệp hội toàn cầu bao gồm các Công ty tư vấn, kiểm toán và kế toán độc lập, với mục tiêu hợp tác nhằm mang đến cho khách hàng những giải pháp tài chính tối ưu nhất.
+Được thành lập vào năm 1969, sự liên kết chiến lược này của các công ty kế toán độc lập về mặt pháp lý có sứ mệnh thúc đẩy sự độc lập, khả năng sinh lời và cải tiến liên tục của các thành viên của mình. Allinial Global có hai trăm sáu mươi tám thành viên mạnh mẽ và đang phát triển, với các địa điểm trên khắp thế giới tạo ra hơn 6 tỷ đô la doanh thu tập thể. Với các liên lạc khu vực chuyên dụng có mối quan hệ rộng rãi trên khắp châu Mỹ, EMEA (Châu Âu, Trung Đông và châu Phi) và khu vực châu Á Thái Bình Dương, các thành viên của Allinial Global cam kết cung cấp các giải pháp linh hoạt, linh hoạt và tập trung vào khách hàng nhất mọi lúc, mọi nơi.
